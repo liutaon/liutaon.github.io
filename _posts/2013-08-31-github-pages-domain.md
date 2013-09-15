@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "github pages 绑定域名"
+title: "Github Pages 绑定域名"
 description: ""
 category: dev
 tags: [github, domain]
